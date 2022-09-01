@@ -10,3 +10,6 @@ https://cloud.tencent.com/developer/article/1790712
 https://www.w3cschool.cn/architectroad/architectroad-database-smooth-expansion.html
 
 https://www.51cto.com/article/687055.html
+
+mockup
+https://www.tutorialspoint.com/balsamiq_mockups/balsamiq_mockups_quick_guide.htm
