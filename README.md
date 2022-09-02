@@ -25,5 +25,14 @@ https://zhuanlan.zhihu.com/p/338945255
 
 [https://zhuanlan.zhihu.com/p/338945255](https://blog.csdn.net/sinat_39809957/article/details/121116398)
 
-## maxwell
+### maxwell
 https://blog.csdn.net/qq_43523503/article/details/112549901
+
+### spark
+https://www.cnblogs.com/wwcom123/p/10492731.html
+https://spark-internals.books.yourtion.com/markdown/1-Overview.html
+https://blog.csdn.net/youbitch1/category_9286644.html?spm=1001.2014.3001.5482
+https://blog.csdn.net/youbitch1/article/details/88710883
+https://blog.csdn.net/youbitch1/category_8603531.html
+https://blog.51cto.com/u_14932245/2611010
+
