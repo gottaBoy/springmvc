@@ -36,3 +36,8 @@ https://blog.csdn.net/youbitch1/article/details/88710883
 https://blog.csdn.net/youbitch1/category_8603531.html
 https://blog.51cto.com/u_14932245/2611010
 
+
+Presto&Trino
+https://cloud.tencent.com/developer/article/1892572
+
+
