@@ -40,4 +40,12 @@ https://blog.51cto.com/u_14932245/2611010
 Presto&Trino
 https://cloud.tencent.com/developer/article/1892572
 
+### 算法
+https://labuladong.gitee.io/algo
+
+### bigdata
+https://github.com/BigDataScholar/TheKingOfBigData
+
+
+
 
