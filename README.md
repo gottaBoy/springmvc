@@ -46,6 +46,8 @@ https://labuladong.gitee.io/algo
 ### bigdata
 https://github.com/BigDataScholar/TheKingOfBigData
 
+akka
+https://www.cnblogs.com/crazymakercircle/p/13910553.html
 
 
 
