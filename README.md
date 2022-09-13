@@ -52,5 +52,7 @@ https://www.cnblogs.com/crazymakercircle/p/13910553.html
 ### mq
 https://www.cnblogs.com/crazymakercircle/p/13917517.html
 
+### 广告召回
+https://www.cnblogs.com/Lee-yl/p/11175243.html
 
 
