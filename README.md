@@ -55,4 +55,8 @@ https://www.cnblogs.com/crazymakercircle/p/13917517.html
 ### 广告召回
 https://www.cnblogs.com/Lee-yl/p/11175243.html
 
-
+### 水印
+https://blog.csdn.net/lmalds/article/details/52704170
+https://bugstack.cn/md/project
+https://developer.aliyun.com/article/600173
+https://asclouds.com/ch9/Flink%E6%A6%82%E8%BF%B0%E4%B8%8E%E6%BA%90%E7%A0%81%E7%A0%94%E8%AF%BB%E5%87%86%E5%A4%87.html
