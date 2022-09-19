@@ -60,3 +60,11 @@ https://blog.csdn.net/lmalds/article/details/52704170
 https://bugstack.cn/md/project
 https://developer.aliyun.com/article/600173
 https://asclouds.com/ch9/Flink%E6%A6%82%E8%BF%B0%E4%B8%8E%E6%BA%90%E7%A0%81%E7%A0%94%E8%AF%BB%E5%87%86%E5%A4%87.html
+
+### Elasticsearch + Logstash + Filebeat + Kibana搭建ELK日志分析平台（官方推荐的BEATS架构）
+https://juejin.cn/post/7124938668657082376
+https://juejin.cn/post/7120907075449782280
+
+### 缓存
+https://www.51cto.com/article/688825.html
+https://xie.infoq.cn/article/8b2e00206eab6adae2de51a29
