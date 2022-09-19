@@ -68,3 +68,7 @@ https://juejin.cn/post/7120907075449782280
 ### 缓存
 https://www.51cto.com/article/688825.html
 https://xie.infoq.cn/article/8b2e00206eab6adae2de51a29
+
+### 阿里云ACE认证考试，快速通关攻略！
+https://zhuanlan.zhihu.com/p/370455156
+https://ke.qq.com/course/list/2022%E9%98%BF%E9%87%8C%E4%BA%91%E4%BA%91%E8%AE%A1%E7%AE%97%E6%9E%B6%E6%9E%84%E5%B8%88ACE
