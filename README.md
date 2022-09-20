@@ -73,3 +73,13 @@ https://xie.infoq.cn/article/8b2e00206eab6adae2de51a29
 https://zhuanlan.zhihu.com/p/370455156
 https://ke.qq.com/course/list/2022%E9%98%BF%E9%87%8C%E4%BA%91%E4%BA%91%E8%AE%A1%E7%AE%97%E6%9E%B6%E6%9E%84%E5%B8%88ACE
 https://www.pianshen.com/article/13842441330/
+
+### hive
+https://www.cnblogs.com/swordfall/p/13426569.html
+https://www.yijiyong.com/dw/hive/10-hivesqlexecsourcecode.html
+https://tech.meituan.com/2014/02/12/hive-sql-to-mapreduce.html
+https://cloud.tencent.com/developer/article/1974667
+https://www.zhihu.com/column/c_1305518757138223104
+https://kpretty.tech/categories/bigdate
+
+
