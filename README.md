@@ -28,6 +28,9 @@ https://zhuanlan.zhihu.com/p/338945255
 ### maxwell
 https://blog.csdn.net/qq_43523503/article/details/112549901
 
+### ambari
+https://cloud.tencent.com/developer/article/1774987
+
 ### spark
 https://www.cnblogs.com/wwcom123/p/10492731.html
 https://spark-internals.books.yourtion.com/markdown/1-Overview.html
