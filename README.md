@@ -81,5 +81,5 @@ https://tech.meituan.com/2014/02/12/hive-sql-to-mapreduce.html
 https://cloud.tencent.com/developer/article/1974667
 https://www.zhihu.com/column/c_1305518757138223104
 https://kpretty.tech/categories/bigdate
-
+https://masterwangzx.com/2020/03/10/hive/
 
