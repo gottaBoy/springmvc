@@ -86,3 +86,6 @@ https://www.zhihu.com/column/c_1305518757138223104
 https://kpretty.tech/categories/bigdate
 https://masterwangzx.com/2020/03/10/hive/
 
+### hivesql
+http://lxw1234.com/archives/2015/04/190.htm
+
