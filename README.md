@@ -89,3 +89,9 @@ https://masterwangzx.com/2020/03/10/hive/
 ### hivesql
 http://lxw1234.com/archives/2015/04/190.htm
 
+### cka 认证
+https://www.udemy.com/course/k8s-chinese/
+https://training.linuxfoundation.cn/pack
+https://openprofile.dev/myevents
+https://zhuanlan.zhihu.com/p/430522334
+https://cwiki.apache.org/confluence/display/AMBARI/Quick+Start+Guide
