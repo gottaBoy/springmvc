@@ -48,8 +48,11 @@ https://labuladong.gitee.io/algo
 
 ### bigdata
 https://github.com/BigDataScholar/TheKingOfBigData
+https://cloud.tencent.com/developer/article/1892572
+https://cloud.tencent.com/developer/article/1854520?from=article.detail.1892572
+https://cloud.tencent.com/developer/article/1854520?from=article.detail.1892572
 
-akka
+### akka
 https://www.cnblogs.com/crazymakercircle/p/13910553.html
 
 ### mq
