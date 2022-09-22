@@ -4,6 +4,8 @@ https://blog.csdn.net/weixin_39723519/article/details/113612331
 ## 美团
 https://tech.meituan.com/2016/11/18/dianping-order-db-sharding.html
 
+### 大数据必看
+https://www.yijiyong.com/da/rtaflink/01-streamwindowintro.html
 
 https://cloud.tencent.com/developer/article/1790712
 
