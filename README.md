@@ -100,3 +100,13 @@ https://training.linuxfoundation.cn/pack
 https://openprofile.dev/myevents
 https://zhuanlan.zhihu.com/p/430522334
 https://cwiki.apache.org/confluence/display/AMBARI/Quick+Start+Guide
+
+### flink
+https://nightlies.apache.org/flink/flink-docs-release-1.14/zh/docs/flinkdev/building/
+https://www.jianshu.com/p/d4a372809e3d
+https://developer.aliyun.com/article/600173
+https://blog.jrwang.me/2019/flink-source-code-sql-overview/
+https://blog.51cto.com/u_12109989/2941756
+https://developer.aliyun.com/article/971094
+https://www.jianshu.com/p/daab50a23c56
+
