@@ -112,3 +112,11 @@ https://www.jianshu.com/p/daab50a23c56
 
 ### acp
 https://www.ls102.com/st10.html
+https://blog.51cto.com/u_15667065/5434732
+https://www.zhihu.com/question/42099290
+
+https://bbs.aliyun.com/
+https://www.aliyunacp.com/bigdata/
+https://www.aliyunacp.com/dashuju.html
+https://juejin.cn/post/6844903888768745486
+
