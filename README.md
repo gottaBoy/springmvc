@@ -5,6 +5,8 @@ https://blog.csdn.net/weixin_39723519/article/details/113612331
 https://tech.meituan.com/2016/11/18/dianping-order-db-sharding.html
 
 ### 大数据必看
+https://bigdata.djbook.top/sites/144.html/
+https://github.com/WeBankFinTech/DataSphereStudio
 https://www.yijiyong.com/da/rtaflink/01-streamwindowintro.html
 
 https://cloud.tencent.com/developer/article/1790712
