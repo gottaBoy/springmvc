@@ -36,6 +36,7 @@ https://blog.csdn.net/qq_43523503/article/details/112549901
 https://cloud.tencent.com/developer/article/1774987
 
 ### spark
+https://www.hadoopdoc.com/spark/intellij-idea-develope-spark-scala-sbt
 https://www.cnblogs.com/wwcom123/p/10492731.html
 https://spark-internals.books.yourtion.com/markdown/1-Overview.html
 https://blog.csdn.net/youbitch1/category_9286644.html?spm=1001.2014.3001.5482
