@@ -98,6 +98,10 @@ https://masterwangzx.com/2020/03/10/hive/
 http://lxw1234.com/archives/2015/04/190.htm
 
 ### cka 认证
+https://gitee.com/zdevops/cka-simulator
+https://github.com/tariqsheikhsw/CKA-Simulator-Practice-Test-Killer-Sh
+https://github.com/nsvijay04b1/cka-ckad-exam-simulator
+https://github.com/exam-jcfxu/CKA-
 https://www.udemy.com/course/k8s-chinese/
 https://training.linuxfoundation.cn/pack
 https://openprofile.dev/myevents
