@@ -134,3 +134,9 @@ https://juejin.cn/post/6844903888768745486
 https://heapdump.cn/article/4182198
 http://byteliu.com/2019/01/27/%E7%BA%BF%E4%B8%8A%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5%E5%B7%A5%E5%85%B7/
 https://segmentfault.com/a/1190000022516408
+
+### 认证
+https://www.amazon.jobs/zh/jobs/2167814/prototyping-sa-gcr-rapid-prototyping-amazon-web-services
+https://aws.amazon.com/cn/certification/certified-solutions-architect-professional/
+https://zhuanlan.zhihu.com/p/88771273
+https://zhuanlan.zhihu.com/p/105653197
