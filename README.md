@@ -133,4 +133,4 @@ https://juejin.cn/post/6844903888768745486
 ### java 工具
 https://heapdump.cn/article/4182198
 http://byteliu.com/2019/01/27/%E7%BA%BF%E4%B8%8A%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5%E5%B7%A5%E5%85%B7/
-
+https://segmentfault.com/a/1190000022516408
