@@ -140,3 +140,7 @@ https://www.amazon.jobs/zh/jobs/2167814/prototyping-sa-gcr-rapid-prototyping-ama
 https://aws.amazon.com/cn/certification/certified-solutions-architect-professional/
 https://zhuanlan.zhihu.com/p/88771273
 https://zhuanlan.zhihu.com/p/105653197
+
+### database
+https://hzkeung.com/category/database
+
