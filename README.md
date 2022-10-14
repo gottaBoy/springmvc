@@ -108,6 +108,11 @@ https://openprofile.dev/myevents
 https://zhuanlan.zhihu.com/p/430522334
 https://cwiki.apache.org/confluence/display/AMBARI/Quick+Start+Guide
 
+### 基金和证券
+https://www.zhihu.com/question/49421538?rf=37526286
+https://baike.baidu.com/item/PMP/587680
+https://www.zhihu.com/question/27618901
+
 ### flink
 https://nightlies.apache.org/flink/flink-docs-release-1.14/zh/docs/flinkdev/building/
 https://www.jianshu.com/p/d4a372809e3d
