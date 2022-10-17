@@ -158,3 +158,7 @@ https://cloud.tencent.com/developer/article/1758562
 
 ### hbase
 https://blog.csdn.net/qq_36546699/article/details/114641744
+
+### rocketmq
+https://www.cnblogs.com/dennyzhangdd/p/15035116.html
+
