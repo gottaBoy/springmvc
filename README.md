@@ -162,3 +162,13 @@ https://blog.csdn.net/qq_36546699/article/details/114641744
 ### rocketmq
 https://www.cnblogs.com/dennyzhangdd/p/15035116.html
 
+### threadlocal 
+为了解决散列冲突，主要采用下面两种方式： 分离链表法（separate chaining）和开放定址法（open addressing）
+https://www.pdai.tech/md/java/thread/java-thread-x-threadlocal.html
+https://juejin.cn/post/6844903602436177933
+https://zhuanlan.zhihu.com/p/141347206
+https://blog.51cto.com/u_12302616/2914948
+
+
+### 大数据开发：Hbase、Kudu和ClickHouse对比
+https://www.jianshu.com/p/7979343e199b
